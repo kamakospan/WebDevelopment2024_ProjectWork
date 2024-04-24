@@ -4,91 +4,91 @@
         "name": "Unicorn Racing Extravaganza",
         "description": "Race majestic unicorns through enchanted forests and mystical meadows in this whimsical racing game!",
         "price": "$19.99",
-        "image": "https://example.com/unicorn-racing.jpg"
+        "image": "./store-app/src/assets/img/games/1.png"
       },
       {
         "name": "Zombie Dance Party",
         "description": "Join the undead on the dance floor for a groovy night of brain-munching beats and monster moves!",
         "price": "$14.99",
-        "image": "https://example.com/zombie-dance.jpg"
+        "image": "./store-app/src/assets/img/games/2.png"
       },
       {
         "name": "Banana Peel Bonanza",
         "description": "Slip, slide, and hurl bananas at your opponents in this wacky multiplayer mayhem!",
         "price": "$9.99",
-        "image": "https://example.com/banana-peel.jpg"
+        "image": "./store-app/src/assets/img/games/3.png"
       },
       {
         "name": "Penguin Plumber Panic",
         "description": "Help penguins fix leaky pipes and navigate treacherous waters in this icy adventure!",
         "price": "$24.99",
-        "image": "https://example.com/penguin-plumber.jpg"
+        "image": "./store-app/src/assets/img/games/4.png"
       },
       {
         "name": "Squirrel Simulator 3000",
         "description": "Experience life as a furry woodland creature as you scurry, stash, and steal your way through the forest!",
         "price": "$29.99",
-        "image": "https://example.com/squirrel-simulator.jpg"
+        "image": "./store-app/src/assets/img/games/5.png"
       },
       {
         "name": "Kitty Cat Chaos",
         "description": "Embrace your inner feline as you embark on a mischievous journey through a world ruled by cats!",
         "price": "$19.99",
-        "image": "https://example.com/kitty-cat-chaos.jpg"
+        "image": "./store-app/src/assets/img/games/6.png"
       },
       {
         "name": "Superhero Chicken Squad",
         "description": "Join a team of heroic chickens as they peck, scratch, and cluck their way to justice!",
         "price": "$12.99",
-        "image": "https://example.com/superhero-chicken.jpg"
+        "image": "./store-app/src/assets/img/games/7.png"
       },
       {
         "name": "Robot Roller Derby Rumble",
         "description": "Customize your mechanical derby bot and roll, dash, and slam your way to victory in this futuristic sport!",
         "price": "$34.99",
-        "image": "https://example.com/robot-roller-derby.jpg"
+        "image": "./store-app/src/assets/img/games/8.png"
       },
       {
         "name": "Alien Disco Invasion",
         "description": "Beam aboard the mothership for an out-of-this-world dance party with extraterrestrial beats and neon lights!",
         "price": "$21.99",
-        "image": "https://example.com/alien-disco.jpg"
+        "image": "./store-app/src/assets/img/games/9.png"
       },
       {
         "name": "Pirate Penguin Plunder",
         "description": "Hoist the sails and join a crew of penguin pirates as they search for buried fish and buried treasure!",
         "price": "$26.99",
-        "image": "https://example.com/pirate-penguin.jpg"
+        "image": "./store-app/src/assets/img/games/10.png"
       },
       {
         "name": "Ninja Noodle Nonsense",
         "description": "Slice, dice, and slurp your way through a deliciously chaotic world of flying noodles and ninja antics!",
         "price": "$17.99",
-        "image": "https://example.com/ninja-noodle.jpg"
+        "image": "./store-app/src/assets/img/games/11.png"
       },
       {
         "name": "Space Sloth Saga",
         "description": "Embark on a slow-motion adventure through the cosmos as a laid-back sloth on a quest for cosmic enlightenment!",
         "price": "$29.99",
-        "image": "https://example.com/space-sloth.jpg"
+        "image": "./store-app/src/assets/img/games/12.png"
       },
       {
         "name": "Vampire Vacation",
         "description": "Sink your fangs into a bloody good time as you navigate a world of sun, sand, and supernatural romance!",
         "price": "$23.99",
-        "image": "https://example.com/vampire-vacation.jpg"
+        "image": "./store-app/src/assets/img/games/13.png"
       },
       {
         "name": "Monster Munchies Mayhem",
         "description": "Join a hungry horde of monsters as they chomp, chew, and gobble their way through a city-sized buffet!",
         "price": "$18.99",
-        "image": "https://example.com/monster-munchies.jpg"
+        "image": "./store-app/src/assets/img/games/14.png"
       },
       {
         "name": "Funky Frog Frenzy",
         "description": "Hop, leap, and ribbit your way through a swampy wonderland of funky beats and amphibious adventure!",
         "price": "$16.99",
-        "image": "https://example.com/funky-frog.jpg"
+        "image": "./store-app/src/assets/img/games/15.png"
       }
     ]
   }
