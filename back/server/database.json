@@ -1,196 +1,94 @@
 {
     "items": [
       {
-        "name": "Fortnite",
-        "description": "Join the fight to be the last one standing in the worldwide phenomenon - Fortnite Battle Royale.",
-        "price": "Free",
-        "image": "https://cdn2.unrealengine.com/Fortnite%2Fhome%2Ffn_hero_v19-1400x788-e9ef73f80dd97f1330b2b8bde66cc75dc120f495.jpg"
-      },
-      {
-        "name": "Rocket League",
-        "description": "Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition.",
+        "name": "Unicorn Racing Extravaganza",
+        "description": "Race majestic unicorns through enchanted forests and mystical meadows in this whimsical racing game!",
         "price": "$19.99",
-        "image": "https://cdn2.unrealengine.com/RocketLeague%2Fhome%2Frocket-league-1400x788-9bda7ca2b09f.jpg"
+        "image": "https://example.com/unicorn-racing.jpg"
       },
       {
-        "name": "Hitman 3",
-        "description": "Death Awaits. Agent 47 returns in HITMAN 3, the dramatic conclusion to the World of Assassination trilogy.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/HITMAN3%2Fhero%2Fhitman-3-trilogy-launch-1400x788-ecd71fb0a7b1.jpg"
+        "name": "Zombie Dance Party",
+        "description": "Join the undead on the dance floor for a groovy night of brain-munching beats and monster moves!",
+        "price": "$14.99",
+        "image": "https://example.com/zombie-dance.jpg"
       },
       {
-        "name": "Red Dead Redemption 2",
-        "description": "America, 1899. The end of the wild west era has begun as lawmen hunt down the last remaining outlaw gangs.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/RedDeadRedemption2%2Fhome%2Frdr2-feature-tile-1400x788-e18e2fbcd5ac.jpg"
+        "name": "Banana Peel Bonanza",
+        "description": "Slip, slide, and hurl bananas at your opponents in this wacky multiplayer mayhem!",
+        "price": "$9.99",
+        "image": "https://example.com/banana-peel.jpg"
       },
       {
-        "name": "Borderlands 3",
-        "description": "The original shooter-looter returns, packing bazillions of guns and an all-new mayhem-fueled adventure!",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/Borderlands3%2Fhome%2Fborderlands-3-cp-1400x788-7c4d7b7f0366.jpg"
+        "name": "Penguin Plumber Panic",
+        "description": "Help penguins fix leaky pipes and navigate treacherous waters in this icy adventure!",
+        "price": "$24.99",
+        "image": "https://example.com/penguin-plumber.jpg"
       },
       {
-        "name": "Control",
-        "description": "Control is an action-adventure game that brings together Remedy Entertainment’s trademark gunplay with supernatural abilities.",
+        "name": "Squirrel Simulator 3000",
+        "description": "Experience life as a furry woodland creature as you scurry, stash, and steal your way through the forest!",
         "price": "$29.99",
-        "image": "https://cdn2.unrealengine.com/Control%2Fhome%2Fcontrolcp%2Fcontrol-feature-1400x788-f8e2c6df3775.jpg"
+        "image": "https://example.com/squirrel-simulator.jpg"
       },
       {
-        "name": "Cyberpunk 2077",
-        "description": "Cyberpunk 2077 is an open-world, action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/Cyberpunk2077%2Fhome%2Fcyberpunk-2077-feature-tile-1400x788-118f0d3477e5.jpg"
-      },
-      {
-        "name": "Grand Theft Auto V",
-        "description": "When a young street hustler, a retired bank robber, and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody, least of all each other.",
-        "price": "$29.99",
-        "image": "https://cdn2.unrealengine.com/GrandTheftAutoV%2Fhome%2Fgrand-theft-auto-v-1400x788-08f82a44a4e3.jpg"
-      },
-      {
-        "name": "Assassin's Creed Valhalla",
-        "description": "Become Eivor, a legendary Viking raider on a quest for glory. Explore England's Dark Ages as you raid your enemies, grow your settlement, and build your political power.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/ACValhalla%2Fhome%2Fac-valhalla-viking-launch-1400x788-291227e07c91.jpg"
-      },
-      {
-        "name": "The Witcher 3: Wild Hunt",
-        "description": "As war rages on throughout the Northern Realms, you take on the greatest contract of your life — tracking down the Child of Prophecy, a living weapon that can alter the shape of the world.",
-        "price": "$39.99",
-        "image": "https://cdn2.unrealengine.com/TheWitcher3%2Fhome%2Fthewitcher3-cover-1400x788-6e3e04c4e2bf.jpg"
-      },
-      {
-        "name": "Death Stranding",
-        "description": "From legendary game creator Hideo Kojima comes an all-new, genre-defying experience for the PlayStation 4 system.",
-        "price": "$39.99",
-        "image": "https://cdn2.unrealengine.com/DeathStranding%2Fhome%2Fdeath-stranding-pc-launch-1400x788-a2de875f740d.jpg"
-      },
-      {
-        "name": "Godfall",
-        "description": "Aperion is on the precipice of ruin. You are the last of the Valorian knights, god-like warriors able to equip Valorplates, legendary armor sets that transform wielders into unstoppable masters of melee combat.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/Godfall%2Fhome%2Fgodfall-feature-tile-1400x788-e9f25b5c3788.jpg"
-      },
-      {
-        "name": "Hitman 2",
-        "description": "Travel the globe and track your targets across exotic sandbox locations in HITMAN 2. From sun-drenched streets to dark and dangerous rainforests, nowhere is safe from the world's most creative assassin, Agent 47.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/HITMAN2%2Fhome%2Fhitman-2-feature-tile-1400x788-1200x675-68fc173fd556.jpg"
-      },
-      {
-        "name": "Mafia: Definitive Edition",
-        "description": "Part one of the Mafia crime saga - 1930s, Lost Heaven, IL Re-made from the ground up, rise through the ranks of the Mafia during the Prohibition era of organized crime.",
-        "price": "$39.99",
-        "image": "https://cdn2.unrealengine.com/MafiaDefinitiveEdition%2Fhome%2Fmafia-definitive-edition-1400x788-85ff2f5701b1.jpg"
-      },
-      {
-        "name": "Outriders",
-        "description": "Outriders is a 1-3 player co-op RPG shooter set in an original, dark, and desperate sci-fi universe.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/Outriders%2Fhome%2Foutriders-feature-tile-1400x788-165eb93f170b.jpg"
-      },
-      {
-        "name": "Subnautica: Below Zero",
-        "description": "Dive into a freezing underwater adventure on an alien planet. Below Zero is set two years after the original Subnautica. Return to Planet 4546B to uncover the truth behind a deadly cover-up.",
-        "price": "$29.99",
-        "image": "https://cdn2.unrealengine.com/Subnautica%2Fhome%2Fsubnautica-feature-tile-1400x788-586a2de63f16.jpg"
-      },
-      {
-        "name": "The Outer Worlds",
-        "description": "The Outer Worlds is a new single-player first-person sci-fi RPG from Obsidian Entertainment and Private Division.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/TheOuterWorlds%2Fhome%2Fthe-outer-worlds-1400x788-4b20d68a6ec6.jpg"
-      },
-      {
-        "name": "Detroit: Become Human",
-        "description": "Detroit: Become Human puts the destiny of both mankind and androids in your hands, taking you to a near-future city torn apart by civil war.",
-        "price": "$39.99",
-        "image": "https://cdn2.unrealengine.com/DetroitBecomeHuman%2Fhome%2Fdbh-feature-tile-1400x788-8107e6b08c0b.jpg"
-      },
-      {
-        "name": "Star Wars Jedi: Fallen Order",
-        "description": "A galaxy-spanning adventure awaits in Star Wars Jedi: Fallen Order, a new third-person action-adventure title from Respawn Entertainment.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/StarWarsJediFallenOrder%2Fhome%2Fsw-1400x788-1c9cc9baf241.jpg"
-      },
-      {
-        "name": "Ghost of Tsushima",
-        "description": "In the late 13th century, the Mongol empire has laid waste to entire nations along their campaign to conquer the East.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/GhostofTsushima%2Fhome%2Fghost-of-tsushima-feature-tile-1400x788-0c6d13b6a75a.jpg"
-      },
-      {
-        "name": "Crusader Kings III",
-        "description": "Crusader Kings III is the heir to a long legacy of historical grand strategy experiences and arrives with a host of new ways to ensure the success of your royal house.",
-        "price": "$49.99",
-        "image": "https://cdn2.unrealengine.com/CrusaderKingsIII%2Fhome%2Fcrusader-kings-iii-launch-1400x788-2ef1c52fe7ee.jpg"
-      },
-      {
-        "name": "Resident Evil Village",
-        "description": "Resident Evil Village is the eighth major installment in the Resident Evil series, developed and published by Capcom.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/ResidentEvilVillage%2Fhome%2Frevillage-feature-tile-1400x788-138c5cf08d7c.jpg"
-      },
-      {
-        "name": "Far Cry 5",
-        "description": "Welcome to Hope County, Montana. This idyllic place is home to a community of freedom-loving people - and a fanatical doomsday cult known as The Project at Eden’s Gate.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/FarCry5%2Fhome%2Ffar-cry-5-feature-tile-1400x788-e8d476c5a7cf.jpg"
-      },
-      {
-        "name": "Devil May Cry 5",
-        "description": "The ultimate Devil Hunter is back in style, in the game action fans have been waiting for.",
-        "price": "$39.99",
-        "image": "https://cdn2.unrealengine.com/DevilMayCry5%2Fhome%2Fdevilmaycry5-feature-tile-1400x788-3a13c90d7cd4.jpg"
-      },
-      {
-        "name": "For Honor",
-        "description": "Carve a path of destruction through the battlefield in For Honor, a brand-new game developed by the renowned Ubisoft Montreal studio.",
-        "price": "$29.99",
-        "image": "https://cdn2.unrealengine.com/ForHonor%2Fhome%2Ffor-honor-1400x788-3473ee2e3f8a.jpg"
-      },
-      {
-        "name": "Doom Eternal",
-        "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/DoomEternal%2Fhome%2Fdoom-eternal-launch-1400x788-d27f94868e4a.jpg"
-      },
-      {
-        "name": "Metro Exodus",
-        "description": "Metro Exodus is an epic, story-driven first-person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created.",
-        "price": "$39.99",
-        "image": "https://cdn2.unrealengine.com/MetroExodus%2Fhome%2Fmetro-exodus-feature-tile-1400x788-18a5b9930c1c.jpg"
-      },
-      {
-        "name": "Monster Hunter: World",
-        "description": "In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
-        "price": "$29.99",
-        "image": "https://cdn2.unrealengine.com/MonsterHunterWorld%2Fhome%2Fmonster-hunter-world-feature-tile-1400x788-d2c222927407.jpg"
-      },
-      {
-        "name": "Sekiro: Shadows Die Twice",
-        "description": "Carve your own clever path to vengeance in the award winning adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series.",
-        "price": "$59.99",
-        "image": "https://cdn2.unrealengine.com/SekiroShadowsDieTwice%2Fhome%2Fsekiro-feature-tile-1400x788-ee93bb7f073f.jpg"
-      },
-      {
-        "name": "The Elder Scrolls V: Skyrim Special Edition",
-        "description": "Winner of more than 200 Game of the Year Awards, Skyrim Special Edition brings the epic fantasy to life in stunning detail.",
-        "price": "$39.99",
-        "image": "https://cdn2.unrealengine.com/SkyrimSpecialEdition%2Fhome%2Fskyrim-feature-tile-1400x788-0e6b1fb4a5ed.jpg"
-      },
-      {
-        "name": "DOOM (2016)",
-        "description": "Developed by id Software, DOOM® Eternal™ is the direct sequel to the award-winning and best-selling DOOM® (2016).",
+        "name": "Kitty Cat Chaos",
+        "description": "Embrace your inner feline as you embark on a mischievous journey through a world ruled by cats!",
         "price": "$19.99",
-        "image": "https://cdn2.unrealengine.com/Doom2016%2Fhome%2Fdoom-feature-tile-1400x788-f11e44a91e54.jpg"
+        "image": "https://example.com/kitty-cat-chaos.jpg"
       },
       {
-        "name": "Control Ultimate Edition",
-        "description": "A corruptive presence has invaded the Federal Bureau of Control… Only you have the power to stop it. The world is now your weapon in an epic fight to annihilate an ominous enemy through deep and unpredictable environments.",
-        "price": "$39.99",
-        "image": "https://cdn2.unrealengine.com/Control%2Fhome%2Fcontrol-ue-trailer-1400x788-2bfa3f05048a.jpg"
+        "name": "Superhero Chicken Squad",
+        "description": "Join a team of heroic chickens as they peck, scratch, and cluck their way to justice!",
+        "price": "$12.99",
+        "image": "https://example.com/superhero-chicken.jpg"
+      },
+      {
+        "name": "Robot Roller Derby Rumble",
+        "description": "Customize your mechanical derby bot and roll, dash, and slam your way to victory in this futuristic sport!",
+        "price": "$34.99",
+        "image": "https://example.com/robot-roller-derby.jpg"
+      },
+      {
+        "name": "Alien Disco Invasion",
+        "description": "Beam aboard the mothership for an out-of-this-world dance party with extraterrestrial beats and neon lights!",
+        "price": "$21.99",
+        "image": "https://example.com/alien-disco.jpg"
+      },
+      {
+        "name": "Pirate Penguin Plunder",
+        "description": "Hoist the sails and join a crew of penguin pirates as they search for buried fish and buried treasure!",
+        "price": "$26.99",
+        "image": "https://example.com/pirate-penguin.jpg"
+      },
+      {
+        "name": "Ninja Noodle Nonsense",
+        "description": "Slice, dice, and slurp your way through a deliciously chaotic world of flying noodles and ninja antics!",
+        "price": "$17.99",
+        "image": "https://example.com/ninja-noodle.jpg"
+      },
+      {
+        "name": "Space Sloth Saga",
+        "description": "Embark on a slow-motion adventure through the cosmos as a laid-back sloth on a quest for cosmic enlightenment!",
+        "price": "$29.99",
+        "image": "https://example.com/space-sloth.jpg"
+      },
+      {
+        "name": "Vampire Vacation",
+        "description": "Sink your fangs into a bloody good time as you navigate a world of sun, sand, and supernatural romance!",
+        "price": "$23.99",
+        "image": "https://example.com/vampire-vacation.jpg"
+      },
+      {
+        "name": "Monster Munchies Mayhem",
+        "description": "Join a hungry horde of monsters as they chomp, chew, and gobble their way through a city-sized buffet!",
+        "price": "$18.99",
+        "image": "https://example.com/monster-munchies.jpg"
+      },
+      {
+        "name": "Funky Frog Frenzy",
+        "description": "Hop, leap, and ribbit your way through a swampy wonderland of funky beats and amphibious adventure!",
+        "price": "$16.99",
+        "image": "https://example.com/funky-frog.jpg"
       }
     ]
   }

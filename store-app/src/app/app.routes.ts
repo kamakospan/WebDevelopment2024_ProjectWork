@@ -5,7 +5,7 @@ export const routes: Routes = [
         path: 'home',
         component: HomeComponent,
 
-        path: 'pageNotFound',
-        component: ErrorPage,
+        // path: 'pageNotFound',
+        // component: ErrorPage,
     },
 ];
