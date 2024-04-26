@@ -33,3 +33,10 @@ class OrderItem(models.Model):
     product = models.ForeignKey(Product, on_delete=models.CASCADE)
     quantity = models.PositiveIntegerField()
 
+class Task(models.Model):
+    title = models.CharField(max_length=100)
+    description = models.TextField()
+    completed = models.BooleanField()
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
+
+# e60f394ba5dd1a8d94cda1ce350ccae43e411a75 ali
